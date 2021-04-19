@@ -459,6 +459,10 @@ img {
   max-height: 510px;
 }
 
+li>img {
+  width: 100%;
+}
+
 .demo {
   position: relative;
 }
