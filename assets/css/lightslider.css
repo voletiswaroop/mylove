@@ -469,10 +469,17 @@ body,
 html {
   width: 100%;
   overflow: hidden;
+  overflow-y: auto;
 }
 
 body {
   margin: 0 0 150px;
+}
+
+audio {
+  margin: 50px auto;
+  /* width: 20%; */
+  display: block;
 }
 
 .animation {
